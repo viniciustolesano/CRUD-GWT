@@ -1,0 +1,4 @@
+CRUD-GWT
+========
+
+GWT CRUD
